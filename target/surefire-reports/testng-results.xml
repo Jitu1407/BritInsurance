@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="22038" started-at="2023-01-13T09:01:05Z" finished-at="2023-01-13T09:01:27Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="22038" started-at="2023-01-13T09:01:05Z" finished-at="2023-01-13T09:01:27Z">
+      <class name="britinsurance.DemoTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="beforeMethod" is-config="true" duration-ms="6045" started-at="2023-01-13T14:31:05Z" finished-at="2023-01-13T14:31:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateContactAddress()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="validateContactAddress" duration-ms="6050" started-at="2023-01-13T14:31:11Z" description="Scenario 2 - Click Contact and verify Address" finished-at="2023-01-13T14:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactAddress -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="afterMethod" is-config="true" duration-ms="647" started-at="2023-01-13T14:31:17Z" finished-at="2023-01-13T14:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="beforeMethod" is-config="true" duration-ms="4529" started-at="2023-01-13T14:31:17Z" finished-at="2023-01-13T14:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateSearch()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="validateSearch" duration-ms="4084" started-at="2023-01-13T14:31:22Z" description="Scenario 1 - Perform Search and Validate Expected Results" finished-at="2023-01-13T14:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:britinsurance.DemoTests@3ffc5af1]" name="afterMethod" is-config="true" duration-ms="668" started-at="2023-01-13T14:31:26Z" finished-at="2023-01-13T14:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- britinsurance.DemoTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
